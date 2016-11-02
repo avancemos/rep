@@ -1,1 +1,3 @@
 import IPython
+
+IPython.embed()

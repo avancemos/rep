@@ -1,4 +1,6 @@
 # main
-Use This Repo To Setup Avancemos
+This repo places ads into give images
 
-Note: You do not need any of the other avancemos repos in order to use AVAncemos.
+If your here, your probably lost.
+
+For full [AVAncemos repo](https://github.com/avancemos/AVAncemos)
